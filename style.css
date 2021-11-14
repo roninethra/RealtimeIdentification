@@ -1,0 +1,47 @@
+#heading{
+    color: blue;
+    background-color: yellow;
+    width: 50%;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 15px;
+    box-shadow: 5px 10px 20px blue;
+    font-family: 'Style Script', cursive;
+}
+.button{
+    background-color: blue;
+    color: yellow;
+    width: 50%;
+    border-radius: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-family: 'Style Script', cursive;
+    font-size: large;
+}
+
+.copy-right-footer{
+    position: fixed;
+    bottom: 0;
+    color: blue;
+    background-color: yellow;
+    line-height: 3;
+    font-size: medium;
+     width: 90%;
+     margin-right: 50px;
+     margin-left: 80px;
+     border-radius: 20px;
+     box-shadow: 5px 10px 20px blue;
+     font-family: 'Style Script', cursive;
+}
+
+canvas{
+    border-color: blue;
+    border-style:dashed;
+    margin-top: 200px;
+    box-shadow: 5px 10px 20px yellow;
+}
+
+h2{
+    font-family: 'Style Script', cursive;
+}
